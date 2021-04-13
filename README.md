@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Moryee
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning c#, python
+- Contact email - alex.fedorutsa@gmail.com
